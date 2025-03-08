@@ -15,11 +15,13 @@ A simple **To-Do List Application** built using Django. This app allows users to
 
 Follow these steps to set up and run the project on your local machine.
 
+
 ### **🔹 1.Clone the Repository**
+
 
 ```bash
 git clone https://github.com/Jassk28/todo_app.git
-cd todo_app 
+cd todo_app
 
 ### **🔹 2.Create a Virtual Environment**
 python -m venv venv
